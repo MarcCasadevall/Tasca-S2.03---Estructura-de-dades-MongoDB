@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "1",
+    "name": "Optic Supplier SL",
+    "nif": "B12345678",
+    "phone": 934567890,
+    "address": {
+      "street": "Diagonal",
+      "number": 22,
+      "floor": 2,
+      "door": "B",
+      "city": "Barcelona",
+      "country": "Spain",
+      "zip_code": 08005
+    }
+  }
+]

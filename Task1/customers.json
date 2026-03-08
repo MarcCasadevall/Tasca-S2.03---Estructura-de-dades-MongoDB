@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "name": "Laura Garcia",
+    "phone": "678921235",
+    "email": "email@email.com",
+    "register_date": "2023-09-23",
+    "recommended_by": null,
+    "address": {
+      "street": "Right Street",
+      "number": 123,
+      "floor": 2,
+      "door": "A",
+      "city": "Barcelona",
+      "country": "Spain",
+      "zip_code": 08001
+    },
+    "last_shoppings": [
+      {
+        "brand": "Rayban",
+        "frame_type": "metallic",
+        "frame_color": "black",
+        "price": 127,
+        "employee_name": "Carlos Lopez",
+        "sale_date": "2023-09-23",
+        "provider_id": "1",
+        "graduation": {
+          "left_eye": 2.3,
+          "right_eye": 2.0
+        },
+        "glass_color": {
+          "left_eye": "black",
+          "right_eye": "black"
+        }
+      }
+    ]
+  }
+]
