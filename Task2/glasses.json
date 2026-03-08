@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"69ad9329d9ca4285617c290a"},"brand":"Google","frame_type":"metallic","price":105.75,"provider_id":"1","bought_by":[{"client_id":"1","name":"Laura Garcia","sale_date":{"$date":"2026-03-08T15:18:01.109Z"}},{"client_id":"2","name":"Marc Perez","sale_date":{"$date":"2026-03-08T15:18:01.109Z"}}]}]
